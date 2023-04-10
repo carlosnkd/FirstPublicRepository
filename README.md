@@ -6,3 +6,6 @@ This is a text
 Second set of changes
 - Header and this list
 - Have been added
+
+Changes from second branch
+- Branch name: SecondBranch
