@@ -9,3 +9,6 @@ Second set of changes
 
 Changes from second branch
 - Branch name: SecondBranch
+
+Changes:
+- Added to gitHub
